@@ -1,0 +1,2 @@
+.App{padding:50px;font-family:Arial,sans-serif}.App__header{text-align:center}.App__title{margin:0}.todo{border-radius:25px;padding-left:10px;padding-right:10px;display:flex;justify-content:space-between;align-items:center;color:#342525}.todo--done{background-color:#71e571}.todo--not-done{background-color:#fcb857}.todo__key-word{font-style:normal}.todo__description{font-style:italic;font-size:18px}.todo-list{display:grid;grid-template-columns:70vw;justify-content:center;grid-gap:10px;gap:10px}
+/*# sourceMappingURL=main.913911bf.chunk.css.map */
